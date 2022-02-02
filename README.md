@@ -12,6 +12,7 @@ Prerequisites:
 Python installed, preferrably creating a virtual environment where you have to install some stuff (well documented on the [Microsoft site] (https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts) -> this site does not mention the virtual environment but it is higly recommended.
 Do not forget to start your virtual environment and point Powerbi (Options, Python scripting)
 
+Watch this video from Koos van Strien about [installing Python] (https://www.youtube.com/watch?v=XA6M_9Gf_yM) for use in Powerbi 
 
 Current status:
 

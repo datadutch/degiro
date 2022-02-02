@@ -5,8 +5,8 @@ from degiroapi.product import Product
 from degiroapi.order import Order
 from degiroapi.utils import pretty_json
 
-with open('config.json','r') as file:
-data = json.load(file)
+with open('c:\git\gro\config.json','r') as file:
+    data = json.load(file)
     user = data['degiro_user']
     password  = data['degiro_password']
 
