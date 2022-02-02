@@ -27,6 +27,9 @@ Select dataset Python - portfolio and there you go
 To-do:
 
 Creating a function (currently in feature branch development)
+
 Call the script from Powerbi instead of copy the code (currently stuck on vague indentation errors)
 
 Create code snippets for the other API calls (products, transactions, account)
+
+Also: take a look at yet another Koos video about how to pick up the stock details using Python: (https://www.youtube.com/watch?v=Gc3MugGpIhY)
