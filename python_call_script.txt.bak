@@ -1,5 +1,0 @@
-let
-    PythonFile = Text.FromBinary(File.Contents("c:\GIT\first.py")),
-    Source = Python.Execute(PythonFile)
-in
-    Source
