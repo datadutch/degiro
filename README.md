@@ -33,3 +33,7 @@ Call the script from Powerbi instead of copy the code (currently stuck on vague 
 Create code snippets for the other API calls (products, transactions, account)
 
 Also: take a look at yet another Koos video about how to pick up the stock details using Python: (https://www.youtube.com/watch?v=Gc3MugGpIhY)
+
+
+Executing code from scripts in PowerBI: https://blog.crossjoin.co.uk/2014/02/04/loading-power-query-m-code-from-text-files/
+https://community.powerbi.com/t5/Desktop/Can-I-run-external-Python-scripts-in-Power-BI-desktop/m-p/2084822#M775602
