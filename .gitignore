@@ -133,3 +133,6 @@ config.json
 
 # Mac stuff
 .DS_Store
+
+# Historized database
+degiro.db
