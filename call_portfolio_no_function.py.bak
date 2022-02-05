@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 import sqlite3
 con = sqlite3.connect('degiro.db')
 
+=======
+>>>>>>> cec6454 (updates)
 import json
 import pandas as pd
 import degiroapi
@@ -8,7 +11,11 @@ from degiroapi.product import Product
 from degiroapi.order import Order
 from degiroapi.utils import pretty_json
 
+<<<<<<< HEAD
 with open('c:\git\degiro\config.json','r') as file:
+=======
+with open('c:\git\gro\config.json','r') as file:
+>>>>>>> cec6454 (updates)
     data = json.load(file)
     user = data['degiro_user']
     password  = data['degiro_password']
@@ -16,5 +23,9 @@ with open('c:\git\degiro\config.json','r') as file:
 degiro = degiroapi.DeGiro()
 degiro.login(user, password)
 portfolio = pd.DataFrame(degiro.getdata(degiroapi.Data.Type.PORTFOLIO, True))
+<<<<<<< HEAD
 
+=======
+print(portfolio)
+>>>>>>> cec6454 (updates)
 degiro.logout()
