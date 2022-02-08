@@ -1,5 +1,5 @@
 let
-	PythonFile = Text.FromBinary(File.Contents("c:\git\first.py")),
+	PythonFile = Text.FromBinary(File.Contents("c:\git\degiro\call_portfolio_no_function.py")),
 	Source = Python.Execute(PythonFile)
 in
 	Source
