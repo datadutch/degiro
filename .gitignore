@@ -139,3 +139,6 @@ degiro.db
 
 # PowerBI reports
 *.pbix
+
+# Misc
+*.bak
