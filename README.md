@@ -14,9 +14,11 @@ Do not forget to start your virtual environment and point Powerbi (Options, Pyth
 
 Watch this video from Koos van Strien about [installing Python] (https://www.youtube.com/watch?v=XA6M_9Gf_yM) for use in Powerbi 
 
+Make sure to adjust the path to your local git path and to create a file called config.json with your de Giro credentials
+
 Current status:
 
-the script works when doing a copy paste of the python code into the Powerbi - get data - python screen. Make sure to adjust the path to your local git path and to create a file called config.json with your de Giro credentials
+the script works when doing a copy paste of the python code into the Powerbi - get data - python screen. -> fixed, the script in the template 
 
 Open Powerbi, Get data, Python -> then copy the script /Users/johanvanderkooij/git/degiro/call_portfolio_no_function.py into the Powerbi screen
 
