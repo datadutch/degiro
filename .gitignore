@@ -130,6 +130,7 @@ dmypy.json
 
 # Configs
 config.json
+config_snowflake.json
 
 # Mac stuff
 .DS_Store
